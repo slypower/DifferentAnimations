@@ -88,7 +88,6 @@
 				D43D0003CC6D8089E8A61AA2 /* Pods-DifferentAnimations.debug.xcconfig */,
 				3995A16C8975897900ECE2C2 /* Pods-DifferentAnimations.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
