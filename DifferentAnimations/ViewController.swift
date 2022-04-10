@@ -73,11 +73,9 @@ class ViewController: UIViewController {
         
         resultPresentLabel.text = animation
         resultCurveLabel.text = curves
-        resultDurationLabel.text = String(format:"%.2f", duration)
-        resultForseLabel.text = String(format:"%.2f", force)
-        resultDelayLabel.text = String(format:"%.2f", delay)
-        
-       
+        resultDurationLabel.text = String(format:"%.02f", duration)
+        resultForseLabel.text = String(format:"%.02f", force)
+        resultDelayLabel.text = String(format:"%.02f", delay)
 
     }
     
